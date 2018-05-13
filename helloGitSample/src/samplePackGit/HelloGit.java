@@ -8,7 +8,7 @@ public class HelloGit {
 
 		// greetings this is from first eclipse
 		// check the status 
-		System.out.println("Hello Git from first eclipse");
+		System.out.println("Hello Git from first eclipse1");
 
 	}
 
